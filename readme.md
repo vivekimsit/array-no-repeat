@@ -1,4 +1,4 @@
-# array-no-repeat [![Build Status](TODO)](TODO)
+# array-no-repeat [![Build Status](https://travis-ci.org/vivekimsit/array-no-repeat.svg?branch=master)](https://travis-ci.org/vivekimsit/array-no-repeat)
 
 > Create an array of unique values, in order, from the input arrays.
 
