@@ -1,4 +1,4 @@
-# array-union [![Build Status](TODO)](TODO)
+# array-no-repeat [![Build Status](TODO)](TODO)
 
 > Create an array of unique values, in order, from the input arrays.
 
